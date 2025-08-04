@@ -58,12 +58,12 @@ ________________________________________
 ## 🌍 Dashboard
 
 🔗 Click here to open the interactive analysis in Google Colab:
-[Google Colab Notebook](https://colab.research.google.com/) *(link will be updated once notebook is public)*
+[Google Colab Notebook]([https://colab.research.google.com/](https://colab.research.google.com/drive/14xBzfE8medboLO-NO9E-WdThDmNxZw37)) 
 ________________________________________
 ## 🎛️ Interactive Dashboard
 
 🔗 Click here to open the Power BI dashboard:
-[Project 3 Power BI File](https://github.com/Nizar-Gadari/Project-3/raw/refs/heads/main/Project%203.pbix) *(link will be updated once uploaded)*
+[Project 3 Power BI File](https://github.com/Nizar-Gadari/Project-3/raw/refs/heads/main/Project%203.pbix) 
 ________________________________________
 ## 🛠️ Tools Used
 
