@@ -70,6 +70,11 @@ ________________________________________
 🔗 Click here to open the Power BI dashboard:
 [Project 3 Power BI File](https://github.com/Nizar-Gadari/Project-3/blob/main/Reorders.pdf) 
 ________________________________________
+
+## 🤖 Machine Learning Models
+🔗 Click here to open the Knime file:
+[Knime file](https://github.com/Nizar-Gadari/Project-3/blob/main/Knime%20Workflow.svg)
+________________________________________
 ## 🛠️ Tools Used
 
 * 🐍 Python (EDA, feature engineering, ML modeling)
