@@ -1,6 +1,6 @@
 ## Optimizing Business Performance through Customer, Sales, and Operations Data Analysis
 
-This project is part of my Data Analytics Portfolio (Project 3) and focuses on leveraging customer, sales, and operational data to enhance business performance. Using the Instacart dataset, the project demonstrates end-to-end analytics capabilities including exploratory data analysis [(EDA)](https://github.com/Nizar-Gadari/Project-3/blob/main/EDA%20using%20Power%20BI.pdf), segmentation, predictive modeling, SQL querying, and Power BI dashboarding.
+This project is part of my Data Analytics Portfolio (Project 3) and focuses on leveraging customer, sales, and operational data to enhance business performance. Using the Instacart dataset, the project demonstrates end-to-end analytics capabilities including exploratory data analysis [(EDA)](https://github.com/Nizar-Gadari/Project-3/blob/main/EDA%20using%20Power%20BI.pdf), segmentation, predictive modeling with KNIME, SQL querying, and Power BI dashboarding.
 ________________________________________
 ## 🔍 Objective
 
@@ -40,11 +40,16 @@ ________________________________________
 
    * RFM (Recency, Frequency, Monetary) analysis
    * Clustering customers into behavioral segments
-4. **Predictive Modeling**
+4. **PMachine Learning with KNIME**
 
-   * Logistic Regression & Decision Tree models
-   * Predicting reorder likelihood per user-product pair
-   * Model evaluation with accuracy, precision, and recall
+Predictive models to forecast reorder likelihood
+Algorithms used:
+
+   * Decision Tree Learner
+   * Linear Regression Learner
+   * Multilayer Perceptron (Neural Network) Predictor
+   * Gradient Boosted Tree Learner
+   * Model comparison using accuracy, precision, recall, and F-measure
 5. **SQL Data Handling**
 
    * Query optimization for large datasets
@@ -71,4 +76,4 @@ ________________________________________
 * 🧪 Google Colab
 * 🗄️ SQL (DuckDB / SQLite)
 * 📊 Power BI
-
+* 🔗 KNIME (predictive modeling)
