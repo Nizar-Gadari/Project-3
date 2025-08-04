@@ -58,7 +58,7 @@ ________________________________________
 ## 🌍 Dashboard
 
 🔗 Click here to open the interactive analysis in Google Colab:
-[Google Colab Notebook]([https://colab.research.google.com/](https://colab.research.google.com/drive/14xBzfE8medboLO-NO9E-WdThDmNxZw37) 
+[Google Colab Notebook](https://colab.research.google.com/drive/14xBzfE8medboLO-NO9E-WdThDmNxZw37) 
 ________________________________________
 ## 🎛️ Interactive Dashboard
 
