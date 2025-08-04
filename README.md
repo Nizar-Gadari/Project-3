@@ -63,7 +63,7 @@ ________________________________________
 ## 🎛️ Interactive Dashboard
 
 🔗 Click here to open the Power BI dashboard:
-[Project 3 Power BI File](https://github.com/Nizar-Gadari/Project-3/raw/refs/heads/main/Project%203.pbix) 
+[Project 3 Power BI File](https://github.com/Nizar-Gadari/Project-3/blob/main/Reorders.pdf) 
 ________________________________________
 ## 🛠️ Tools Used
 
