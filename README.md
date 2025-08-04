@@ -77,8 +77,7 @@ ________________________________________
 ________________________________________
 ## 🛠️ Tools Used
 
-* 🐍 Python (EDA, feature engineering, ML modeling)
-* 🧪 Google Colab
-* 🗄️ SQL (DuckDB / SQLite)
-* 📊 Power BI
+* 🐍 Python (Google Colab)
+* 🗄️ SQL (DuckDB / Google Colab)
+* 📊 Power BI (EDA)
 * 🔗 KNIME (predictive modeling)
