@@ -1,0 +1,11 @@
+Confusion Matrix,,,,,,,,,,
+Row ID,0,1,,,,,,,,
+0,20824,13892,,,,,,,,
+1,9713,31153,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Accuracy Statistics,,,,,,,,,,
+TruePositives,FalsePositives,TrueNegatives,FalseNegatives,Recall,Precision,Sensitivity,Specificity,F-measure,Accuracy,Cohen's kappa
+20824,9713,31153,13892,"0,6",0.682,0.6,0.762,0.638,,
+31153,13892,20824,9713,"0,762",0.692,0.762,0.6,0.725,,
+,,,,,,,,,0.688,0.365
