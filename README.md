@@ -1,4 +1,4 @@
-## Optimizing Business Performance through Customer, Sales, and Operations Data Analysis
+## Optimizing Retention through Customer, Sales, and Operations Data Analysis
 
 This project is part of my Data Analytics Portfolio (Project 3) and focuses on leveraging customer, sales, and operational data to enhance business performance. Using the Instacart dataset, the project demonstrates end-to-end analytics capabilities including exploratory data analysis [(EDA)](https://github.com/Nizar-Gadari/Project-3/blob/main/EDA%20using%20Power%20BI.pdf), segmentation, predictive modeling with KNIME, SQL querying, and Power BI dashboarding.
 ________________________________________
