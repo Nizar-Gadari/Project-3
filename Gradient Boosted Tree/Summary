@@ -1,1 +1,3 @@
-The prediction model achieved an overall accuracy of 68.8% with a Cohen’s kappa of 0.365, indicating fair agreement beyond chance. Performance is stronger for Class 1, with a recall of 76.2% and F-measure of 0.725, compared to Class 0 with a recall of 60% and F-measure of 0.638. The model tends to misclassify Class 0 as Class 1 more often, suggesting a bias toward predicting Class 1
+The prediction model achieved an overall accuracy of 68.8% with a Cohen’s kappa of 0.365, indicating fair agreement beyond chance. Performance is stronger for Class 1, with a 
+recall of 76.2% and F-measure of 0.725, compared to Class 0 with a recall of 60% and F-measure of 0.638. The model tends to misclassify Class 0 as Class 1 more often, suggesting
+a bias toward predicting Class 1
